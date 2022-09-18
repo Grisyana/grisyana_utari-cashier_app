@@ -1,0 +1,25 @@
+Start 
+Input Total
+Input Harga
+Input Jumlah_pesanan
+If Kode_paket "1"
+         Output "Paket Nasi LTT = Rp 15.000
+If Kode_paket "2"
+         Output "Paket Nasi LA = Rp 20.000
+If Kode_paket "3"
+         Output "Paket Nasi LTT = Rp 25.000
+Else
+Write "Tidak ada"
+End
+
+Write Total
+Read Uang_pembayaran
+Write Uang_pembayaran dan Total
+
+Write Nama_pembeli
+Write Kode_paket
+Write Jumlah_pesanan
+Write Harga_pesanan
+Write Uang_pembayaran
+Write Kembalian
+End
